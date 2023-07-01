@@ -1,5 +1,5 @@
 # translate_moroccan_sign_language_To_morocan_arabic
-translation of mroccan sign language To mroccan arabic using hybrid (GRU-LSTM) and not hybrid  (GRU,LTSM)  deep learning algorithms
+translation of mroccan sign language To mroccan arabic using hybrid (GRU-LSTM) and not hybrid (GRU,LTSM) deep learning algorithms, in this project we tried to extract key points using MediaPipe
 # GRU's Confusion matrix :
 ![image](https://github.com/haazelnuter/translate_moroccan_sign_language_To_morocan_arabic/assets/96618018/b4f50b95-eb08-4969-a7e3-6bacc781ab8b)
 # LSTM'S confusion matrix :
